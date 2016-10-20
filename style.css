@@ -1,0 +1,16 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: purple;
+}
+
+h1 {
+  background-color: white;
+  display: inline-block;
+  margin: 0 auto;
+  width: 20em;
+  text-align: center;
+}
+
+img {
+
+}
